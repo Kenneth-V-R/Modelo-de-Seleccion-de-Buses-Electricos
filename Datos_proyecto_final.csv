@@ -1,0 +1,53 @@
+﻿Index,Modelo[i],Fabricante,Capacidad de pasajeros[P],Capacidad de la batería(kWh),Tiempo carga(Horas)[t],Autonomía(Km)[A],Consumo energético(kWh/Km)[E],Imagen,Página acceso 
+1,Oreos 2x,"
+Power Vehicle Innovation",22,93,5,120,0.775,https://upload.wikimedia.org/wikipedia/commons/1/1e/G%C3%A9p%C3%A9bus_Or%C3%A9os_2X_-_RNTP_2011-2.JPG,https://www.pvi.fr/en/
+2,Oréos 4X,"
+Power Vehicle Innovation",49,170,4,120,1.416666667,https://fr.wikipedia.org/wiki/G%C3%A9p%C3%A9bus_Or%C3%A9os_4X#/media/Fichier:G%C3%A9p%C3%A9bus_Or%C3%A9os_4X_-_RNTP_2011.JPG,https://www.pvi.fr/en/
+3,EV250,GreenPower Motor Company,23,260,2,320,0.8125,https://greenpowermotor.com/wp-content/uploads/2021/04/EV-250-life-1024x581.jpg,https://greenpowermotor.com/gp-products/ev250-bus/
+4,GX 437,Heuliez,180,250,5.7,120,2.083333333,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heuliez_GX_437_Hybride_TAN_n%C2%B0806_-_Haluch%C3%A8re.JPG/1024px-Heuliez_GX_437_Hybride_TAN_n%C2%B0806_-_Haluch%C3%A8re.JPG,https://www.heuliezbus.com/fr/
+5, e-Atak,Karsan ,52,220,5,300,0.733333333,https://www.karsan.com/download/resources/atak-ev-yeni-618x440_8416146994_-1x-1_false_false.webp,https://www.karsan.com/es/e-atak-aspectos-destacados
+6,e-ATA 12,Karsan ,89,450,3.16,450,1,https://www.karsan.com/download/resources/3_7761738837_-1x-1_false_false.webp,https://www.karsan.com/es/e-ata-12-aspectos-destacados
+7,Kayoola Solar Electric Bus,Kiira Motors Corporation,34,70,4,92,0.760869565,https://i.ytimg.com/vi/Q3tx4a7_sIw/maxresdefault.jpg,https://www.kiiramotors.com/kayoola-solar-bus/
+8,LiAZ-6274 ,Likinsk Bus Plant,110,77,6,56,1.375,https://upload.wikimedia.org/wikipedia/commons/c/cf/LiAZ-6274.jpg,https://en.wikipedia.org/wiki/LiAZ-6274
+9,Enviro500,Alexander Dennis,134,648,14.9,321,2.018691589,https://upload.wikimedia.org/wikipedia/commons/5/5e/Kmbate201_001.jpg,https://www.alexander-dennis.com/
+10,Vicinity Lightning EV,Vicinity Motor Corp,34,252,5.8,300,0.84,https://vicinitymotorcorp.com/images/gallery/Vicinity_lightning_ev_2/vicinity-models-lightning-ev-gallery-2-right-front.jpg,https://vicinitymotorcorp.com/modelsm/vicinity-lightning-ev.html
+11,Е433,Belkommunmash,153,489,11.2,200,2.445,https://tdbkm.ru/wp-content/uploads/2016/08/DSC_5771-470x280.jpg,https://tdbkm.ru/en/catalog/elektrobus-modeli-e433-vitovt-max-electro/
+12,E12,Yutong,70,422,2,370,1.140540541,https://www.transportecarretero.com.uy/media/zoo/images/Yutong_Electrico_COME_e90df4a89899f0f3658ef8a495ad4517.jpg,https://pelicanyutong.co.uk/buses/e12-electric-bus/
+13,12m,Bluebus,109,441,5,320,1.378125,https://www.transbus.org/construc/bluebus-bluebus12-ratp.jpg,https://www.bluebus.fr/en/bluebus-12-m
+14,Zeus M-200 E ,BredaMenarinibus,69,58,10,120,0.483333333,https://www.transbus.org/construc/bredamenarinibus_zeus_av.jpg,https://www.transbus.org/construc/bredamenarinibus_zeus.html
+15,K11M ,BYD,89,578,8,310,1.864516129,https://en.byd.com/wp-content/uploads/2021/02/BYD-K11-Transit-Bus_Digital-Fleet-Branding_FINAL-HR.png,https://en.byd.com/bus/k11m/
+16,CITY SMILE 10,URSUS,60,210,8,150,1.4,https://www.ursus.com/thumbs/1024x860c/2017-03/851917.jpg,https://www.ursus.com/en/product/ursus-city-smile-10
+17,Ebusco 3.0 - 12m.,Ebusco,95,350,8,575,0.608695652,https://www.ebusco.com/wp-content/uploads/ebusco-3-0-4-750x407.png,https://www.ebusco.com/electric-buses/ebusco-3-0/
+18,Ebusco 3.0 - 18m.,Ebusco,160,500,8,576,0.868055556,https://www.ebusco.com/wp-content/uploads/ebusco-3-0-4-750x407.png,https://www.ebusco.com/electric-buses/ebusco-3-0/
+19,Eurabus 2.0,Eurabus,135,214,4.9,350,0.611428571,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eurabus_2.0.jpg/640px-Eurabus_2.0.jpg,https://www.eurabus.com/en/
+20,SOR EBN 9.5,Czech company,46,172,3.9,335,0.513432836,https://www.sor.cz/wp-content/uploads/2017/09/sor_ebn1.jpg,https://www.sor.cz/en/ebn/
+21,Ebusco 2.2 City Bus 12m,Ebusco,90,350,8,350,1,https://www.ebusco.com/wp-content/uploads/12m_2d-750x422.jpg,https://www.ebusco.com/electric-buses/ebusco-2-2/
+22,Ebusco 2.2 City Bus 18m,Ebusco,150,500,11.5,450,1.111111111,https://www.ebusco.com/wp-content/uploads/18m-6-750x422.jpg,https://www.ebusco.com/electric-buses/ebusco-2-2/
+23,HEULIEZ GX 337 ELEC,HEULIEZ,107,350,12,527,0.664136622,https://www.busandcoachbuyer.com/wp-content/uploads/2018/07/IMG_7527.jpg,https://www.heuliezbus.com/fr/GX-ELEC
+24,MAN lion's City 12 E,MAN,104,480,11,350,1.371428571,https://1.bp.blogspot.com/-GdYLYsGqUV8/XtWO3Ik_P1I/AAAAAAAAKuI/xSmfpEt5YAwwkiIcBCe4tdMCZNQaSFP3QCK4BGAsYHg/w1200-h630-p-k-no-nu/p-bus-eot-lionscity12e-abc2020-award-03.jpg,https://www.man.eu/de/en/bus/the-man-lion_s-city/technology-and-spezifikation/all-models-and-specifications.html
+25,MAN lion's City 10 E,MAN,80,400,9.2,300,1.333333333,https://www.manoriginal.cz/wp-content/uploads/2022/10/Lions_City_10E_1.jpg,https://www.man.eu/de/en/bus/the-man-lion_s-city/technology-and-spezifikation/all-models-and-specifications.html
+26,MAN lion's City 18 E,MAN,146,640,14.7,350,1.828571429,https://content.presspage.com/uploads/2341/1920_p-bus-eot-lionscity18e-teaser-03.jpg?10000,https://www.man.eu/de/en/bus/the-man-lion_s-city/technology-and-spezifikation/all-models-and-specifications.html
+27, Avenue Electron 12m.,TEMSA,90,400,4.5,350,1.142857143,https://api.temsa.com/_i/dev/265ddb74-5609-4ca0-8c01-e077e2bb0e28---0010_temsa_avenue_electron_7726_sag_3e4_goz_v005.jpg,https://www.temsa.com/eu/en/city/avenue-electron
+28,VDL Citea - SLFA 187., VDL Bus & Coach.,130,320,11.2,228,1.403508772,https://www.lectura-specs.com/models/renamed/orig/intercity-buses-citea-slfa-187-vdl-buses.jpg,https://www.vdlbuscoach.com/es/productos/citea/citea-slf-slfa-electric
+29,MD9 ElectriCITY 9m.,TEMSA,55,200,5,230,0.869565217,https://api.temsa.com/_i/dev/0f79382f-1f29-4a3c-8931-3fcbd050f062---0004_temsa_md9_electricity_4030_on_3e4_goz_v005.jpg,https://temsaspain.es/modelos/urbano/md9-electricity/
+30,K9G,BYD,25,324,5,250,1.296,https://bydelectrico.com/ec/wp-content/uploads/2020/05/BUS-EL%C3%89CTRICO-K9G-1.png,https://bydelectrico.com/ec/portfolio/bus-electrico-k9g/
+31,Ebus Andino 18,BYD,160,400,3,350,1.142857143,https://bydcolombia.com/wp-content/uploads/2020/07/byd-ebus-articulado-18-bydelectricos_co.png,https://bydcolombia.com/portfolio-item/ebus-18-articulado/
+32,C9,BYD,47,365,5,300,1.216666667,https://bydelectrico.com/ec/wp-content/uploads/2020/05/001.jpg,https://bydelectrico.com/ec/portfolio/bus-electrico-de-pasajeros-c9/
+33,Volvo 7900 - 12m.,Volvo,95,330,0.1,295,1.118644068,https://www.volvobuses.com/content/dam/volvo-buses/markets/master/city-and-intercity/complete-buses/volvo-7900-electric/1860x1050-Volvo-7900-Electric-front45.jpg,https://www.volvobuses.com/es/city-and-intercity/buses/volvo-7900-electric/specifications.html
+34,Volvo 7900 - 18m.,Volvo,150,396,9.1,305,1.298360656,https://cdn.motor1.com/images/mgl/b2j83/s1/volvo-7900-electric-articulated.jpg,https://www.volvobuses.com/es/city-and-intercity/buses/volvo-7900-electric/specifications.html
+35,Volvo 7900 - 18.7m.,Volvo,145,396,9.1,304,1.302631579,https://cdn.motor1.com/images/mgl/b2j83/s1/volvo-7900-electric-articulated.jpg,https://www.volvobuses.com/es/city-and-intercity/buses/volvo-7900-electric/specifications.html
+36,S12,SILEO,90,225,7,288,0.78125,https://www.urban-transport-magazine.com/wp-content/uploads/2020/11/DSC_0506-24.jpg ,https://www.urban-transport-magazine.com/en/new-sileo-s-12-electric-buses-for-nordhausen/
+37,XCelsior Charge NG - 10m.,New Flyer.,67,350,2.8,280,1.25,https://www.sustainable-bus.com/wp-content/uploads/2021/03/Xcelsior-CHARGE-NG-4.jpg,https://www.newflyer.com/bus/xcelsior-charge-ng/
+38,XCelsior Charge NG - 12 m.,New Flyer.,84,440,3.1,256,1.71875,https://www.newflyer.com/site-content/uploads/2021/03/ng0045-1920x1920-c-default.jpg,https://www.newflyer.com/bus/xcelsior-charge-ng/
+38,XCelsior Charge NG - 18 m.,New Flyer.,123,525,3.8,525,1,https://www.newflyer.com/site-content/uploads/2021/03/ng0045-1920x1920-c-default.jpg,https://www.newflyer.com/bus/xcelsior-charge-ng/
+40,"Irizar ie bus 10,6m",Irizar Group.,96,437,4,350,1.248571429,https://irizar-emobility.com/images/01-vehiculos/iebus-10.png,https://irizar-emobility.com/vehiculos/irizar-ie-bus
+41,Irizar ie bus 12m,Irizar Group.,105,437,3,350,1.248571429,https://irizar-emobility.com/images/2021/05/18/iebus-12m.png,https://irizar-emobility.com/vehiculos/irizar-ie-bus
+42,Irizar ie bus 15m,Irizar Group.,105,515,4,350,1.471428571,https://irizar-emobility.com/images/01-vehiculos/iebus15.png,https://irizar-emobility.com/vehiculos/irizar-ie-bus
+43,Irizar ie bus 18m,Irizar Group.,145,640,4,350,1.828571429,https://irizar-emobility.com/images/01-vehiculos/iebus18.png,https://irizar-emobility.com/vehiculos/irizar-ie-bus
+44,Apollo 9000,Woojin Industrial Systems,38,155,1,180,0.861111111,https://www.wjis.co.kr/en/business/apollo.php,
+45,Apollo 1100,Woojin Industrial Systems,49,204,1,212,0.962264151,https://upload.wikimedia.org/wikipedia/commons/d/d3/Woojin_Apollo1100.jpg,https://www.wjis.co.kr/en/business/apollo1100.php
+46,15 m pure electric bus,King Long,100,422.9,3,250,1.6916,https://es.king-long.com/uploadfile/202206/24/cae851bfdeb40e5705bd6d5b701e89fe_medium.jpg,https://es.king-long.com/15m-pure-electric-city-bus_p7.html
+47,13 m pure electric coach,King Long,55,350,2.8,280,1.25,https://es.king-long.com/uploadfile/202206/23/b60b7bd53fd18e2e7a87301a5cbfaccb_medium.jpg,https://es.king-long.com/13m-pure-electric-coach_p2.html
+48,Estar 12m ,King Long,94,422.9,3,300,1.409666667,https://es.king-long.com/uploadfile/202206/22/00773bdab1d7b8a3897761c2f25c6976_medium.jpg,https://es.king-long.com/12m-pure-electric-city-bus-estar_p1.html
+49,K8M.,BYD,52,391,3.3,315,1.241269841,https://en.byd.com/wp-content/uploads/2021/07/k8m-th-1421x1200-2.png,https://en.byd.com/bus/k8m/
+50,K9M.,BYD,60,313,3.5,253,1.23715415,https://en.byd.com/wp-content/uploads/2021/06/K9MTTC_Cleanedup.png,https://en.byd.com/bus/k9m/

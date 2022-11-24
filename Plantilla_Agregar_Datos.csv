@@ -1,0 +1,13 @@
+﻿Index,Modelo[i],Fabricante,Capacidad de pasajeros[P],Capacidad de la batería(kWh),Tiempo carga(Horas)[t],Autonomía(Km)[A],Consumo energético(kWh/Km)[E],Imagen,Página acceso 
+1,Bus prueba,"
+Power Vehicle Innovation",10000,10000,1,10000,0.01,,
+2,Bus prueba 2,"
+Power Vehicle Innovation",0,0,1,10000,0.01,,
+3,Bus prueba 3,"
+Power Vehicle Innovation",0,0,1,10000,0.01,,
+4,Bus prueba 4,"
+Power Vehicle Innovation",0,0,1,10000,0.01,,
+5,Bus prueba 5,"
+Power Vehicle Innovation",0,0,1,10000,0.01,,
+6,Bus prueba 6,"
+Power Vehicle Innovation",0,0,1,10000,0.01,,
