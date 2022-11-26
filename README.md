@@ -1,4 +1,4 @@
-# Modelo-de-Seleccion-de-Buses-Electricos
+# Modelo de Seleccion de Buses Electricos
 ![Imagen Español](https://user-images.githubusercontent.com/96844423/204068256-47117117-d8ac-486a-9047-02c1184270ce.jpg)
 ## Resumen
 Nuestro proyecto busca contrarrestar la falta de información asociada al uso de energías renovables en el sector del transporte público en Barranquilla. Brindamos como solución una herramienta informativa que guíe en la toma de decisiones para la sustitución de buses convencionales por buses eléctricos alimentados con energía solar.
