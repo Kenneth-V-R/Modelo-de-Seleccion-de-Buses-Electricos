@@ -1,4 +1,5 @@
 # Modelo-de-Seleccion-de-Buses-Electricos
+![Imagen Español](https://user-images.githubusercontent.com/96844423/204068256-47117117-d8ac-486a-9047-02c1184270ce.jpg)
 ## Resumen
 Nuestro proyecto busca contrarrestar la falta de información asociada al uso de energías renovables en el sector del transporte público en Barranquilla. Brindamos como solución una herramienta informativa que guíe en la toma de decisiones para la sustitución de buses convencionales por buses eléctricos alimentados con energía solar.
 Se planteó un modelo matemático que a través de la programación lineal y el manejo de datos de entrada tales como: cantidad de pasajeros, autonomía, tiempo de recorrido, entre otros; selecciona el modelo de bus eléctrico óptimo para realizar la sustitución. De igual manera, centramos la función objetivo en minimizar los costos asociados a la demanda eléctrica.<br>
@@ -11,5 +12,3 @@ Solar panels will be used to power the selected bus. The web application also pr
 Finally, we want to emphasize that this informative tool is characterized by being flexible and replicable. Therefore, we adopted the "Open Source" model allowing the code and all documentation used to be freely visible and modifiable.<br>
 ## Aplicación Web
 ![Imagen de WhatsApp 2022-11-20 a las 20 12 59](https://user-images.githubusercontent.com/96844423/204068039-5745cc42-3395-47ef-8942-363645ebe490.jpg)
-## Imagen
-![Imagen Español](https://user-images.githubusercontent.com/96844423/204068256-47117117-d8ac-486a-9047-02c1184270ce.jpg)
