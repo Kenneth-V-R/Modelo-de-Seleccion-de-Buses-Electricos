@@ -9,5 +9,6 @@ Our project seeks to counteract the lack of information associated with the use 
 We formulated a mathematical model that through linear programming and the handling of input data such as number of passengers, vehicle range, travel time, etc. It selects the optimal electric bus model to substitute the existing one. We focused the objective function on minimizing the costs associated to the electric demand.
 Solar panels will be used to power the selected bus. The web application also provides this information to the user. The tool provides results such as the optimal bus model, the electrical consumption and cost of the bus and lastly the number of solar panels required to power it taking into account the solar production capacity of the area.<br>
 Finally, we want to emphasize that this informative tool is characterized by being flexible and replicable. Therefore, we adopted the "Open Source" model allowing the code and all documentation used to be freely visible and modifiable.<br>
+## Aplicación Web
 ![Imagen de WhatsApp 2022-11-20 a las 20 12 59](https://user-images.githubusercontent.com/96844423/204068039-5745cc42-3395-47ef-8942-363645ebe490.jpg)
 
