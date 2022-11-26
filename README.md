@@ -11,4 +11,5 @@ Solar panels will be used to power the selected bus. The web application also pr
 Finally, we want to emphasize that this informative tool is characterized by being flexible and replicable. Therefore, we adopted the "Open Source" model allowing the code and all documentation used to be freely visible and modifiable.<br>
 ## Aplicación Web
 ![Imagen de WhatsApp 2022-11-20 a las 20 12 59](https://user-images.githubusercontent.com/96844423/204068039-5745cc42-3395-47ef-8942-363645ebe490.jpg)
-
+## Imagen
+![Imagen Español](https://user-images.githubusercontent.com/96844423/204068256-47117117-d8ac-486a-9047-02c1184270ce.jpg)
